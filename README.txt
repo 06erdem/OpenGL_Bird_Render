@@ -10,3 +10,6 @@ Implemented features:
 - Implemented Speed Adjuster
 - Implemented FPS Adjuster
 - Added four types of birds: Blue Finch, Northern Cardinal, American Goldfinch, Bald Eagle
+
+NOTE:
+This GitHub directory only contains code for the render. It does not contain any project files or library files that work with the original project. If you would like the full library, please contact me, the developer.
